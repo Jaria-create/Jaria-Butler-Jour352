@@ -1,0 +1,30 @@
+/*
+MY COLOR PALETTE
+light pink- #efaac4
+Grey- #6b717e
+light green- #d4dccd
+Color 4 - #ffc4d1
+Color 5 - 
+
+*/
+
+
+body {
+background-color: #efaac4;
+    text-align:center;
+}
+button {
+       background-color: #6b717e;
+       color: #ffc4d1;
+        font-family: 
+        font weight: 300
+        width: 200px
+}
+
+button:hover {
+    background-color:#ffe8e1
+}
+
+h1 {
+    font-family: "Abril Fatface", serif;
+}
