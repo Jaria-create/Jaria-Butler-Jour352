@@ -10,21 +10,33 @@ Color 5 -
 
 
 body {
-background-color: #efaac4;
+    background-color: #efaac4;
     text-align:center;
     font-size:smaller;
+     padding: 25X;
+     
 }
+ 
 button {
        background-color: #6b717e;
        color: #ffc4d1;
         font-family: "Abril Fatface", serif;
         font-weight: 300;
         width: 200px;
+        padding: 10px;
+        text-align:center;
+        border-radius: 10px;
+        margin: 10px;
+       border: none;
 }
+    
+        
 
 button:hover {
     background-color:#ffe8e1
 }
+
+
 
 h1 {
     font-family: "Abril Fatface", serif;
@@ -32,5 +44,6 @@ h1 {
 
 h2 {
     font-family:"Abril Fatface", serif;
+   
     
 }
