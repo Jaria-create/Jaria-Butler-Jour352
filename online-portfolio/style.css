@@ -1,10 +1,20 @@
-h1{
-    font-family:
+h1 {
+    font-family:;
 }
 
+img {
+    width: 100%;
+    border: 10px solid white;
+    padding: 20px;
+}
 
 #topper {
-    background-image: url(headshot%20copy.jpeg)
-    background-siz cover
-        
+    background-image: url(headshot%20copy.jpeg);
+    background-size: cover;
 }
+
+#navigation {
+    background-color: #0db76c;
+    text-align: center;
+}
+body{background-color: beige}
