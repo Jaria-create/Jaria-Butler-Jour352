@@ -1,20 +1,27 @@
-h1 {
-    font-family:;
+@media {
+    h1 {
+        font-family: "monospace", Georgia;
+        font-size: 50px;
+    }
+
+    h4 {
+        border-bottom: 2px solid black;
+        padding:  10px;
+    }
+
+    #topper {
+        background-image: url(headshot%20copy.jpeg);
+        background-size: cover;
+    }
+
+    .jobtitle {
+        font-weight: bold;
+        text-transform: uppercase;
+    }
 }
 
-img {
-    width: 100%;
-    border: 10px solid white;
-    padding: 20px;
+@media (min-width: 576px) {
+    h1 {
+        font-size: 120px;
+    }
 }
-
-#topper {
-    background-image: url(headshot%20copy.jpeg);
-    background-size: cover;
-}
-
-#navigation {
-    background-color: #0db76c;
-    text-align: center;
-}
-body{background-color: beige}
