@@ -30,7 +30,10 @@ button {
        border: none;
 }
     
-        
+#navigation{
+    background-color: #949494;
+    text-align: center
+}
 
 button:hover {
     background-color:#ffe8e1

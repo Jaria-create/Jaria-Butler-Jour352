@@ -3,13 +3,13 @@
         font-family: "tarif";
         font-size: 50px;
         color: #e7f2a4;
-        margin: auto
+        margin: auto;
     }
     h2 {
         font-family: "tarif";
         font-size: 35px;
-        color: #CECBCB;
-        margin: auto
+        color: #cecbcb;
+        margin: auto;
     }
     h3 {
         font-family: "tarif";
@@ -18,9 +18,9 @@
         font-size: 50px;
         color: black;
     }
-    p{ font-family: "tarif";
-      font-size: 15px;
-
+    p {
+        font-family: "tarif";
+        font-size: 20px;
     }
     h4 {
         border-bottom: 15px solid #e7f2a4;
@@ -29,20 +29,16 @@
         font-family: "tarif";
         font-weight: bold;
         font-size: 40px;
-       
-      
     }
 
     header {
         border-bottom: block;
         margin: auto;
-        
-      
     }
 }
-li{ font-family: "tarif";
-      font-size: 17px;
-    
+li {
+    font-family: "tarif";
+    font-size: 17px;
 }
 
 #topper {
@@ -54,30 +50,25 @@ li{ font-family: "tarif";
 
 button {
     display: block;
-    margin: left; 
-    border-radius: 200px
-  
-  
-    
+    margin: left;
+    border-radius: 200px;
 }
 button {
-  width: 100px;
-  height: 60px;
-
+    width: 100px;
+    height: 60px;
 }
 button a {
     color: black;
     text-decoration: none;
     font-family: "tarif";
-    font-size: 20px
+    font-size: 20px;
 }
 button a:hover {
     color: black;
 }
 button:hover {
     background-color: #e7f2a4;
-    color: #949494 
-      
+    color: #949494;
 }
 
 body {
@@ -87,15 +78,12 @@ body {
 #navigation {
     background-color: #949494;
     text-align: center;
-
 }
 .jobtitle {
     font-weight: bold;
     text-transform: uppercase;
     font-family: "tarif";
-     font-size: 20px;
- 
-    
+    font-size: 20px;
 }
 
 @media (min-width: 576px) {
@@ -105,6 +93,5 @@ body {
 
     #topper {
         height: 600px;
-    
-}
+    }
 }
