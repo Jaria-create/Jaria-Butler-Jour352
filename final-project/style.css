@@ -1,0 +1,30 @@
+img {
+    width: 100%;
+}
+h1 {
+    font-family: "Garamond";
+    font-size: 50px;
+    color: #0b0b0b;
+    text-align: center;
+}
+
+p {
+    font-family: "Garamond";
+    font-size: 20px;
+    color: #000000;
+    text-align: center;
+}
+h2 {
+    font-family: "Garamond";
+    font-size: 20px;
+    color: #0b0b0b;
+    margin: 70px;
+}
+h3{ font-family: "Garamond";
+    font-size: 25px;
+    color: #0b0b0b;
+    text-align: center px;
+    font-weight: bold;
+ border-bottom: 5px solid #000000;
+}
+
