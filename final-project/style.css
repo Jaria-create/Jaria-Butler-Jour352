@@ -10,7 +10,7 @@ h1 {
 
 p {
     font-family: "Garamond";
-    font-size: 20px;
+    font-size: 15px;
     color: #000000;
     text-align: center;
 }
@@ -18,13 +18,22 @@ h2 {
     font-family: "Garamond";
     font-size: 20px;
     color: #0b0b0b;
-    margin: 70px;
+    text-align-last: center;
 }
-h3{ font-family: "Garamond";
-    font-size: 25px;
+h3 {
+    font-family: "Garamond";
+    font-size: 20px;
     color: #0b0b0b;
-    text-align: center px;
-    font-weight: bold;
- border-bottom: 5px solid #000000;
+    text-align: center;
 }
-
+h4 {
+    border-bottom: 5px solid #000000;
+    font-family:"Garamond"; font-weight: bold;
+    font-size: 25px;
+    
+}
+h5{
+    border-bottom: 5px solid;
+    font-family:"Garamond"; font-weight: bold;
+    font-size: 25px; 
+}
