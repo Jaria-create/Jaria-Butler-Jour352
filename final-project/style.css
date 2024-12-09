@@ -1,39 +1,66 @@
-img {
-    width: 100%;
-}
-h1 {
-    font-family: "Garamond";
-    font-size: 50px;
-    color: #0b0b0b;
-    text-align: center;
+@media {
+    img {
+        width: 100%;
+    }
+    h1 {
+        font-family: "Garamond";
+        font-size: 50px;
+        color: #0b0b0b;
+        text-align: center;
+    }
+
+    p {
+        font-family: "Garamond";
+        font-size: 15px;
+        color: #000000;
+       
+    }
+    h2 {
+        font-family: "Garamond";
+        font-size: 20px;
+        color: #0b0b0b;
+        text-align-last: center;
+    }
+    h3 {
+        font-family: "Garamond";
+        font-size: 20px;
+        color: #0b0b0b;
+        text-align: center;
+    }
+    h4 {
+        border-bottom: 5px solid #000000;
+        font-family: "Garamond";
+        font-weight: bold;
+        font-size: 25px;
+    }
+   
+    #content {
+        width: 100%;
+        margin: auto;
+    }
+    .caption {
+        font-size: 12px;
+        color: #636663;
+    }
+    .pullquote {
+        border: 10px solid #114912;
+        padding: 20px;
+        text-align-last: center;
+    }
+    .quote {
+        font-size: 25px;
+    }
+    .attribution {
+        font-size: 15px;
+    }
 }
 
-p {
-    font-family: "Garamond";
-    font-size: 15px;
-    color: #000000;
-    text-align: center;
-}
-h2 {
-    font-family: "Garamond";
-    font-size: 20px;
-    color: #0b0b0b;
-    text-align-last: center;
-}
-h3 {
-    font-family: "Garamond";
-    font-size: 20px;
-    color: #0b0b0b;
-    text-align: center;
-}
-h4 {
-    border-bottom: 5px solid #000000;
-    font-family:"Garamond"; font-weight: bold;
-    font-size: 25px;
-    
-}
-h5{
-    border-bottom: 5px solid;
-    font-family:"Garamond"; font-weight: bold;
-    font-size: 25px; 
+@media (min-width: 576px) {
+    #content {
+        width: 80%;
+        margin: auto;
+    }
+    h1 {
+        font-size: 80px;
+    }
 }
