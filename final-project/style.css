@@ -39,7 +39,7 @@
        
     }
     .caption {
-        font-size: 15x;
+        font-size: 15px;
         color: #5B3B21;
         text-align-last: center;
     }
@@ -54,7 +54,11 @@
     .attribution {
         font-size: 15px;
     }
-
+    .credit{
+        color: #8f2828;
+        font-size: 15px;
+    
+    }
 
 }
 @media (min-width: 576px) {
