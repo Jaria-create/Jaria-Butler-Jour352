@@ -28,7 +28,7 @@
     }
     h4 {
         border-bottom: 5px solid #000000;
-        font-family: "Garamond";
+        font-family: "Tinos", serif;
         font-weight: bold;
         font-size: 30px;
     }
@@ -40,11 +40,11 @@
     }
     .caption {
         font-size: 15x;
-        color: #656565;
+        color: #5B3B21;
         text-align-last: center;
     }
     .pullquote {
-        border: 10px solid #e4c7b8;
+        border: 10px solid #B3A19C;
         padding: 20px;
         text-align-last: center;
     }
