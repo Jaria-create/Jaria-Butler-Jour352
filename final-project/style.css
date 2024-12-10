@@ -3,26 +3,25 @@
         width: 100%;
     }
     h1 {
-        font-family: "Garamond";
-        font-size: 50px;
+        font-family: "Tinos", serif;
+        font-size: 45px;
         color: #0b0b0b;
         text-align: center;
     }
 
     p {
         font-family: "Garamond";
-        font-size: 15px;
+        font-size: 20px;
         color: #000000;
-       
     }
     h2 {
-        font-family: "Garamond";
+        font-family: "Tinos", serif;
         font-size: 20px;
         color: #0b0b0b;
         text-align-last: center;
     }
     h3 {
-        font-family: "Garamond";
+        font-family: "Tinos", serif;
         font-size: 20px;
         color: #0b0b0b;
         text-align: center;
@@ -31,19 +30,21 @@
         border-bottom: 5px solid #000000;
         font-family: "Garamond";
         font-weight: bold;
-        font-size: 25px;
+        font-size: 30px;
     }
-   
+
     #content {
         width: 100%;
         margin: auto;
+       
     }
     .caption {
-        font-size: 12px;
-        color: #636663;
+        font-size: 15x;
+        color: #656565;
+        text-align-last: center;
     }
     .pullquote {
-        border: 10px solid #114912;
+        border: 10px solid #e4c7b8;
         padding: 20px;
         text-align-last: center;
     }
@@ -53,8 +54,9 @@
     .attribution {
         font-size: 15px;
     }
-}
 
+
+}
 @media (min-width: 576px) {
     #content {
         width: 80%;
