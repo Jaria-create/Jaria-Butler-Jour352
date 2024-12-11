@@ -36,15 +36,14 @@
     #content {
         width: 100%;
         margin: auto;
-       
     }
     .caption {
         font-size: 15px;
-        color: #5B3B21;
+        color: #5b3b21;
         text-align-last: center;
     }
     .pullquote {
-        border: 10px solid #B3A19C;
+        border: 10px solid #b3a19c;
         padding: 20px;
         text-align-last: center;
     }
@@ -54,12 +53,27 @@
     .attribution {
         font-size: 15px;
     }
-    .credit{
+    .credit {
         color: #8f2828;
         font-size: 15px;
-    
     }
-
+    .navbar ul {
+        list-style-type: none;
+        background-color: #5b3b21;
+        padding: none;
+        margin: none;
+    }
+    .navbar a {
+        color: white;
+        text-decoration: none;
+        padding: 15px;
+        display: block;
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+    .navbar a:hover {
+        background-color: antiquewhite;
+    }
 }
 @media (min-width: 576px) {
     #content {
